@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CringeCoder-21
 - 👀 I’m interested in electronics and computer science. 
-- 🌱 I’m currently doing my UG degree on ECE. 
+- 🌱 Finished my UG degree on ECE. 
 - 💞️ I’m looking forward to learn new things related to electonics and computer science. 
 - 📫 How to reach me:https://www.linkedin.com/in/vikkram-srinivasan-806ab2222
 
